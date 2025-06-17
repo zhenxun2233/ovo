@@ -46,3 +46,4 @@ tline.website=TLine
 wd-red.com=西部数据  
 ccsub.org=CordCloud  
 ghelper=ghelper
+cxsub=潮汐.net
