@@ -51,3 +51,4 @@ sttsub=STTlink
 paoluz=跑路云
 dotu.xyz=DOTUNNEL
 dotu.cyou=DOTUNNEL
+flsubcn.cc=fastlink
