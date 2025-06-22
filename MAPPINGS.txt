@@ -53,3 +53,4 @@ dotu.xyz=DOTUNNEL
 dotu.cyou=DOTUNNEL
 flsubcn.cc=fastlink
 wd=西部数据
+scto=古歌云
