@@ -2,6 +2,7 @@
 dler.cloud=Dler Cloud
 db01=大白
 huaikhwang=TAG
+ninjasub=忍者云
 patriot.ninja=智者建桥
 mercedes1208.xn--3iq226gfdb94q.com=树洞
 tkv=TKV
@@ -56,4 +57,4 @@ wd=西部数据
 scto=古歌云
 jego=无忧行
 suying=速鹰666
-ninjasub=忍者云
+
