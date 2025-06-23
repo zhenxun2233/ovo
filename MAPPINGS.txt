@@ -54,4 +54,4 @@ dotu.cyou=DOTUNNEL
 flsubcn.cc=fastlink
 wd=西部数据
 scto=古歌云
-jego=iGG谷歌访问助手
+jego=无忧行
