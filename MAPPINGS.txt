@@ -59,3 +59,4 @@ jego=无忧行
 suying=速鹰666
 skr.daozhang=skrvpn
 ripaojiedian=TG分享社
+tube.daozhang=tubevpn
