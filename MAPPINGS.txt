@@ -58,5 +58,5 @@ scto=古歌云
 jego=无忧行
 suying=速鹰666
 skr.daozhang=skrvpn
-ripaojiedian=TG分享社
+ripaojiedian=分享社订阅
 tube.daozhang=tubevpn
