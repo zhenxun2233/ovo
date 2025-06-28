@@ -60,3 +60,4 @@ suying=速鹰666
 skr.daozhang=skrvpn
 ripaojiedian=分享社订阅
 tube.daozhang=tubevpn
+trojanflare=shadowsocks.com
