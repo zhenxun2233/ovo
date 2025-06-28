@@ -61,3 +61,4 @@ skr.daozhang=skrvpn
 ripaojiedian=分享社订阅
 tube.daozhang=tubevpn
 trojanflare=shadowsocks.com
+sub.liger.solutions=TLine
