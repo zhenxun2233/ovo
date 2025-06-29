@@ -62,3 +62,4 @@ ripaojiedian=分享社订阅
 tube.daozhang=tubevpn
 trojanflare=shadowsocks.com
 sub.liger.solutions=TLine
+jmssub=搬瓦工机场jms
