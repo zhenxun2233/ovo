@@ -63,3 +63,4 @@ tube.daozhang=tubevpn
 trojanflare=xTom-ShadowSocks
 sub.liger.solutions=TLine
 jmssub=搬瓦工机场jms
+mcwy.xyz=牧场
