@@ -66,3 +66,4 @@ jmssub=搬瓦工机场jms
 mcwy.xyz=牧场
 veridianpulse.net=Kuromis
 mysub.cc=IPLC.VIP
+nysubs=CreamData
