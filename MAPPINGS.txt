@@ -67,3 +67,4 @@ mcwy.xyz=牧场
 veridianpulse.net=Kuromis
 mysub.cc=IPLC.VIP
 nysubs=CreamData
+acccgggcloud=Acgcloud
