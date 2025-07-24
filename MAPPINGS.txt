@@ -70,3 +70,4 @@ nysubs=CreamData
 acccgggcloud=AcgCloud
 nginx24zfd=追风岛
 dogeconfig=pkqcloud
+42.194.232.60=PieCloud
