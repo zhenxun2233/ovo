@@ -74,3 +74,4 @@ dogeconfig=pkqcloud
 getfree=GetfreeCloud
 biubiusub=明云
 jy.top=极影加速
+jiying.top=极影加速
