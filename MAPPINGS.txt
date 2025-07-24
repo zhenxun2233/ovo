@@ -68,3 +68,4 @@ veridianpulse.net=Kuromis
 mysub.cc=IPLC.VIP
 nysubs=CreamData
 acccgggcloud=AcgCloud
+nginx24zfd=追风岛
