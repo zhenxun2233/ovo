@@ -73,3 +73,4 @@ dogeconfig=pkqcloud
 42.194.232.60=PieCloud
 getfree=GetfreeCloud
 biubiusub=明云
+jy.top=极影加速
