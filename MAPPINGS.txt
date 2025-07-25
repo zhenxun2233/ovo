@@ -1,6 +1,5 @@
 13.248.254.117=飞鸟加速
 dler.cloud=Dler Cloud
-db01=大白
 huaikhwang=TAG
 ninjasub=忍者云
 patriot.ninja=智者建桥
