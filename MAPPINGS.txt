@@ -75,3 +75,4 @@ biubiusub=明云
 jy.top=极影加速
 jiying.top=极影加速
 rss-node=海豚湾
+v2ray.tygwd.sbs=edgetunnel
