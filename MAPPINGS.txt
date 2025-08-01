@@ -2,7 +2,7 @@
 dler.cloud=Dler Cloud
 huaikhwang=TAG
 ninjasub=忍者云
-patriot.ninja=智者建桥
+patriot.ninja=Bridge the Wise
 mercedes1208.xn--3iq226gfdb94q.com=树洞
 tkv=TKV
 no-mad-world=iKuuu
