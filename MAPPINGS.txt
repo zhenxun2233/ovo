@@ -81,3 +81,4 @@ wjkc66.vip=网际快车
 db01.in=大白
 fastlink=FastLink
 nloli.xyz=跑路云
+ifaner=翻儿Cloud
