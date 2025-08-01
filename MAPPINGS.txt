@@ -79,3 +79,4 @@ v2ray.tygwd.sbs=edgetunnel
 oness.xyz=壹速云
 wjkc66.vip=网际快车
 db01.in=大白
+jkcloud=JK云
