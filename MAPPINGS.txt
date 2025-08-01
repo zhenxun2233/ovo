@@ -82,3 +82,4 @@ db01.in=大白
 fastlink=FastLink
 nloli.xyz=跑路云
 ifaner=翻儿Cloud
+auv888.qzz.io=AM科技
