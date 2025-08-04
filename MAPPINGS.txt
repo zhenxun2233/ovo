@@ -88,5 +88,4 @@ lanfan.info=蓝帆云
 cm-sub.pz.pe=红莓网络
 api.sub-100.one=iKuuu
 zlsub3.malh.cn=智灵云
-dingyue888.shop=KiLi云
 dingyue888.shop=KuLi云
