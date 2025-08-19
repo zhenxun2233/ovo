@@ -100,3 +100,4 @@ ths1f9qf.xyz=PieCloud
 mjjclub.top=木机机
 ikuajingbus=跨境Cloud
 106.75.232.87=GW树洞
+oss.zenithgrid.co=Nexitally
