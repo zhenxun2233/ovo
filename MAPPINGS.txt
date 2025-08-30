@@ -103,3 +103,4 @@ ikuajingbus=跨境Cloud
 oss.zenithgrid.co=Nexitally
 juzicloud=橘子云
 hutaod.com=HuTaoCloud
+zhuifengdao=追风岛
