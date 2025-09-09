@@ -105,3 +105,4 @@ juzicloud=橘子云
 hutaod.com=HuTaoCloud
 zhuifengdao=追风岛
 magicae.pics=ZERO云加速
+suzu.shop=学习工具
