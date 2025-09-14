@@ -106,3 +106,4 @@ hutaod.com=HuTaoCloud
 zhuifengdao=追风岛
 magicae.pics=ZERO云加速
 suzu.shop=学习工具
+nginx24ftq.xyz=佛跳墙加速
