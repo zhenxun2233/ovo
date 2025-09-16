@@ -108,3 +108,4 @@ magicae.pics=ZERO云加速
 suzu.shop=学习工具
 nginx24ftq.xyz=佛跳墙加速
 zimoceng.xyz=色色小站
+xsub.icu=少数人
