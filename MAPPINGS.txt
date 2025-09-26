@@ -115,3 +115,4 @@ bmr5j1.com=SpeedCat
 suyunti=速云梯
 pilor.net=派乐
 youyun666=优云666
+tekuai.cc=NetPadCloud
