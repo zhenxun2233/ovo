@@ -118,3 +118,4 @@ youyun666=优云666
 tekuai.cc=NetPadCloud
 ktyyun.com=快云
 43.139.168.201=熊猫云
+nexuscloud=咸鱼加速器
