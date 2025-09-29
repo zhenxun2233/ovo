@@ -122,3 +122,4 @@ nexuscloud=咸鱼加速器
 fnffff.xn--vuqy1f6uqyhu2rlsp5a.com=Foo&Friends.
 hitun.io=海豚湾
 cherryvpn=Cherry VPN
+toolpfan.xyz=渡口 FLZT
