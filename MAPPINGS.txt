@@ -1,4 +1,4 @@
-13.248.254.117=飞鸟加速
+ 13.248.254.117=飞鸟加速
 dler.cloud=Dler Cloud
 huaikhwang=TAG
 ninjasub=忍者云
@@ -122,4 +122,4 @@ nexuscloud=咸鱼加速器
 fnffff.xn--vuqy1f6uqyhu2rlsp5a.com=Foo&Friends.
 hitun.io=海豚湾
 cherryvpn=Cherry VPN
-toolpfan.xyz=渡口 FLZT
+toolpfan.xyz=FLZT(渡口)
