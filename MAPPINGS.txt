@@ -125,3 +125,4 @@ cherryvpn=Cherry VPN
 toolpfan.xyz=FLZT(渡口)
 microsun.onl=NCloud
 mtxcld-online.buzz=MaTrix
+iggfeed.com=iGG谷歌学术助手
