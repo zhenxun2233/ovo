@@ -129,3 +129,4 @@ iggfeed.com=iGG谷歌学术助手
 micro361.org=NCloud
 efanyunapi=饿饭CC云
 huojian.top=小火箭加速
+amatrixap=MaTrix
