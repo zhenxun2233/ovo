@@ -132,3 +132,4 @@ huojian.top=小火箭加速
 amatrixap=MaTrix
 microcloudvm.com=NCloud
 passw.pw=VirCloud
+v2ai.top=V2free
