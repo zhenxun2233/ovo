@@ -135,4 +135,4 @@ passw.pw=VirCloud
 v2ai.top=V2free
 subxxxxxxxxxxxxxxxxxxxxxxx.xyz=RabbitPro
 cm-sub.pz.pe=CMYNetwork(红莓网络)
-oxycontinon.com=YTOO
+oxycontinon.com=YToo
