@@ -137,3 +137,4 @@ subxxxxxxxxxxxxxxxxxxxxxxx.xyz=RabbitPro
 cm-sub.pz.pe=CMYNetwork(红莓网络)
 oxycontinon.com=YToo
 oxycontin.cc=YToo
+ytoo.xyz=YToo
