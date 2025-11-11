@@ -146,3 +146,4 @@ ojbktv.com=TKV
 hgfastgo.com=HGFAST-cloud
 justcn2.top=CN2免流
 zvlqjih1t=FastLink
+sfeed.cc=Kuromis
