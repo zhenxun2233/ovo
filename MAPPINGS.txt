@@ -148,3 +148,4 @@ justcn2.top=CN2免流
 zvlqjih1t=FastLink
 sfeed.cc=Kuromis
 fawnnode.xyz=SKY VPN
+cauenvao.click=OuONetwork
