@@ -149,3 +149,4 @@ zvlqjih1t=FastLink
 sfeed.cc=Kuromis
 fawnnode.xyz=SKY VPN
 cauenvao.click=OuONetwork
+tooop.cc=拓扑门
