@@ -151,3 +151,4 @@ fawnnode.xyz=SKY VPN
 cauenvao.click=OuONetwork
 tooop.cc=拓扑门
 cdn.bmx0.xyz=斑马线
+ciallo.nneko.netlib.re=Ciallo～(∠・ω< )
