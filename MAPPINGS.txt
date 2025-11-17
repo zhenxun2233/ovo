@@ -150,3 +150,4 @@ sfeed.cc=Kuromis
 fawnnode.xyz=SKY VPN
 cauenvao.click=OuONetwork
 tooop.cc=拓扑门
+cdn.bmx0.xyz=斑马线
