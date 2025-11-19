@@ -153,3 +153,4 @@ tooop.cc=拓扑门
 cdn.bmx0.xyz=斑马线
 ciallo.nneko.netlib.re=Ciallo～(∠・ω< )
 yiyosub.com=Yiyo Networks
+124.221.157.130=云梯
