@@ -161,3 +161,4 @@ resourcemap.lol=Kuromis
 v2tun.li=V2tun
 linkcube.com=LinkCube
 220322.best=KyCloud
+adomainforsub.org=薯条
