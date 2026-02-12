@@ -163,3 +163,4 @@ linkcube.com=LinkCube
 220322.best=KyCloud
 adomainforsub.org=薯条
 103.118.42.43=TigerCloud
+ssone=SSONE
