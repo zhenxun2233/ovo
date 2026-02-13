@@ -165,4 +165,4 @@ adomainforsub.org=薯条
 103.118.42.43=TigerCloud
 ssone=SSONE
 47.238.198.94=白羊座
-roc-taiwan.taipei=nawiaT_COR
+roc-taiwan.taipei=roc-tw.tw
