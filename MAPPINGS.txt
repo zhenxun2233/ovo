@@ -166,3 +166,4 @@ adomainforsub.org=薯条
 ssone=SSONE
 47.238.198.94=白羊座
 roc-taiwan.taipei=roc-tw.tw
+knjc.cfd=亏本机场
