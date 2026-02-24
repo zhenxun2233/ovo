@@ -168,3 +168,4 @@ ssone=SSONE
 roc-taiwan.taipei=roc-tw.tw
 knjc.cfd=亏本机场
 domainforsub.work=薯条
+liangxin.xyz=良心云
