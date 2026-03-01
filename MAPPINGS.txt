@@ -170,3 +170,4 @@ knjc.cfd=亏本机场
 domainforsub.work=薯条
 liangxin.xyz=良心云
 guolicheng=果粒橙
+hxyunvip=红杏云
