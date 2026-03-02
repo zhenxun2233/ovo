@@ -171,3 +171,4 @@ domainforsub.work=薯条
 liangxin.xyz=良心云
 guolicheng=果粒橙
 hxyunvip=红杏云
+139.196.241.76:18181=TigerCloud
