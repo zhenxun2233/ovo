@@ -173,3 +173,4 @@ guolicheng=果粒橙
 hxyunvip=红杏云
 139.196.241.76:18181=TigerCloud
 oics.net=oixCloud
+no-mad-sub=iKuuu
