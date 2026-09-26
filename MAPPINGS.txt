@@ -181,3 +181,4 @@ mitce=Mitce
 ic1008.com=热气球|ic1008.com
 36.133.41.39:8081=霹雳鲨
 linkcube=LinkCube
+xn--9kqs1lo79d=吹雪云
