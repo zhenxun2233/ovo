@@ -183,3 +183,4 @@ ic1008.com=热气球|ic1008.com
 linkcube=LinkCube
 xn--9kqs1lo79d=吹雪云
 36.133.43.24:8081=霹雳鲨
+impnetwork.fnintweb.beauty=蜂鸟畅享版
